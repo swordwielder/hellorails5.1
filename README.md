@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* This is web app is based on https://www.railstutorial.org/book/beginning#sec-introduction
